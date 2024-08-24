@@ -1,0 +1,44 @@
+* {
+    text-decoration: none;
+}
+
+.body0 {
+    background-color: rgb(28, 103, 52);
+}
+
+.head1 {
+    background-color: rgb(119, 193, 123);
+    color: rgb(247, 250, 250);
+}
+
+.button2 {
+    background-color: rgb(100, 173, 122);
+    color: aquamarine;
+}
+
+.button2:hover .stars {
+    display: block;
+    filter: drop-shadow(0 0 10px rgb(100,173,122))
+}
+
+.tutorial-navbar {
+}
+
+.tutorial4 {
+    text-align:right;
+    border: 2px;
+    justify-items: center;
+    width: 50%;
+    margin: 45px;
+}
+
+.button1 {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: 10px;
+    text-align: right;
+}
+
+
+
